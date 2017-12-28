@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4C1D-0E1B
+
+ Directory of C:\Users\Rachit\Desktop\MyProject
+
+12/28/2017  10:09 AM    <DIR>          .
+12/28/2017  10:09 AM    <DIR>          ..
+12/28/2017  10:09 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,432,756,736 bytes free
